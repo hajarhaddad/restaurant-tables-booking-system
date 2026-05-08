@@ -2,6 +2,15 @@
 ## Java + SQL Server Management Studio (Terminal)
 
 <img width="572" height="304" alt="image" src="https://github.com/user-attachments/assets/d91ba953-2e28-4ead-8317-5cf7422ac4fb" />
+<img width="285" height="241" alt="image" src="https://github.com/user-attachments/assets/a2bc7baa-e303-4866-b212-e1c2fe72502d" />
+<img width="647" height="281" alt="image" src="https://github.com/user-attachments/assets/8e56b8b3-04f2-4f8b-92a6-44e510059614" />
+<img width="347" height="324" alt="image" src="https://github.com/user-attachments/assets/b1b29c69-8f38-4580-b566-7ca1b152c593" />
+<img width="319" height="327" alt="image" src="https://github.com/user-attachments/assets/f4bb1252-b7c0-4307-bde7-73c52e70e80e" />
+<img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/ae037e92-87b6-4c06-98ee-aefffea435e9" />
+<img width="407" height="176" alt="image" src="https://github.com/user-attachments/assets/99ec4aab-ab80-40c2-b303-cbce2534ad0e" />
+
+
+
 
 
 ## Structure du projet
